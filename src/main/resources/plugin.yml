@@ -1,0 +1,8 @@
+name: PluginDownloader
+version: ${project.version}
+main: me.radoje17.plugindownloader.PluginDownloader
+load: STARTUP
+commands:
+  plugindownloader:
+    description: Plugin Downloader main command
+    aliases: [pd, plugind, pdownloader, plugindownload, pdownload]

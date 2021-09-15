@@ -1,0 +1,20 @@
+download-server: "http://192.168.0.3:2500/"
+plugins:
+  - Cubics.jar
+  - Parssentials.jar
+  - Cosmetics.jar
+one-time-plugins:
+  - "Cubics/mysql.config"
+  - "Parssentials/lang.yml"
+  - "Parssentials/config.yml"
+  - "PermissionsEx/config.yml"
+  - "LiteBans/config.yml"
+  - "LiteBans/messages.yml"
+  - "React/config.yml"
+  - Vault.jar
+  - PlaceholderAPI.jar
+  - PermissionsEx.jar
+  - PlugMan.jar
+  - LiteBans.jar
+  - React.jar
+  - NoteBlockAPI.jar
